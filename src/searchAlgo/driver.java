@@ -17,7 +17,8 @@ public class driver {
 		//System.out.println(search.binarySearch(Sample, size, value));
 		//System.out.println(search.binarySearchRecursive(Sample, 0,3, value));
 		
-		System.out.println(searchPattern.BruteForceSearch("NavdeepSinghGhotra", "Singh"));
+		//System.out.println(searchPattern.BruteForceSearch("NavdeepSinghGhotra", "Singh"));
+		System.out.println(searchPattern.RobinKarp("NavdeepSinghGhotra", "deep"));
 
 	}
 
